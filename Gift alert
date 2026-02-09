@@ -1,10 +1,1 @@
-mkdir giftcode-alerts
-cd giftcode-alerts
-mkdir backend frontend docs
-git init
-echo "# GiftCode Alerts 🎁" > README.md
-git add .
-git commit -m "Initial commit"
-git remote add origin https://github.com/YOUR_USERNAME/giftcode-alerts.git
-git branch -M main
-git push -u origin main
+
